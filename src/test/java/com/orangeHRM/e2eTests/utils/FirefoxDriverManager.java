@@ -7,7 +7,7 @@ public class FirefoxDriverManager extends DriverManager {
 	@Override
 	protected void startService() {
 // TODO Auto-generated method stub
-		System.setProperty("webdriver.gecko.driver", "src/test/resources/drivers/geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "src/resources/drivers/geckodriver.exe");
 
 	}
 
