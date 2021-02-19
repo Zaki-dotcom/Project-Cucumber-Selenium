@@ -1,5 +1,8 @@
-2021-02-08 22:57:54,009 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
-2021-02-08 22:57:56,364 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisi Username
-2021-02-08 22:57:56,814 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisi Password
-2021-02-08 22:57:56,960 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je clique sur le boutton Login
-2021-02-08 22:57:59,975 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Redirection vers le compte admin
+2021-02-18 20:31:35,864 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
+2021-02-18 20:31:38,027 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisi Username
+2021-02-18 20:31:38,507 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisi Password
+2021-02-18 20:31:38,656 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je clique sur le boutton Login
+2021-02-18 20:31:50,545 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
+2021-02-18 20:31:52,441 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisi Username
+2021-02-18 20:31:52,661 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisi Password
+2021-02-18 20:31:52,819 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je clique sur le boutton Login

@@ -1,7 +1,9 @@
 com\orangeHRM\e2eTests\utils\ChromeDriverManager.class
 com\orangeHRM\e2eTests\utils\DriverManager.class
 com\orangeHRM\e2eTests\utils\Setup.class
+com\orangeHRM\e2eTests\upload_file_demo\stepDefinitions\StepDefinitionsUploadFileDemo.class
 com\orangeHRM\e2eTests\utils\DriverManagerFactory.class
+com\orangeHRM\e2eTests\upload_file_demo\pages\PageUploadFileDemo.class
 com\orangeHRM\e2eTests\utils\DriverType.class
 com\orangeHRM\e2eTests\utils\InternetExplorerDriver.class
 com\orangeHRM\e2eTests\utils\AbstractPage.class

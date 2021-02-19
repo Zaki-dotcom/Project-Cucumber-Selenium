@@ -36,6 +36,6 @@ public class Setup {
 				System.err.println(somePlatformDontSupportScreenshots.getMessage());
 			}
 		}
-		driver.quit();
+		//driver.quit();
 	}
 }

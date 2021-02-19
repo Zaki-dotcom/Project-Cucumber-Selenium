@@ -15,8 +15,9 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features = { "src/specs/features" },
 		// glue = {"src/test/java/com/orangeHRM/e2eTests/stepDefinitions"},
 		plugin = { "pretty", "html:target/cucumber-html-report", "json:target/cucumber.json",
-				"com.cucumber.listener.ExtentCucumberFormatter:target/Cucumber-reports/OrangeHRM.html" }, snippets = SnippetType.CAMELCASE, tags = {
-						("@connexion") },
+				"com.cucumber.listener.ExtentCucumberFormatter:target/Cucumber-reports/OrangeHRM.html" },
+		snippets = SnippetType.CAMELCASE,
+		tags = {("@adduser") },
 		// tags = {("@outline, @cnx")}, run multiple feature
 		// tags = {("")}, run all feature
 		monochrome = true)
